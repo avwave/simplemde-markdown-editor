@@ -22,7 +22,7 @@
   },
   "dependencies": {
 	"codemirror": "codemirror/CodeMirror",
-	"codemirror-spell-checker": "WebCloud/codemirror-spell-checker#fix-module-usage",
+	"codemirror-spell-checker": "avwave/codemirror-spell-checker",
 	"marked": "0.3.5"
   },
   "devDependencies": {
